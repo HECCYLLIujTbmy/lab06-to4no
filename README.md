@@ -15,7 +15,7 @@
 $ git clone https://github.com/HECCYLLIujTbmy/lab04-pls lab06-to4no
 ```
 
-# 2. добавляем файлы CPackConfig.cmake и CMakeLists.txt
+# 2. Добавляем файлы CPackConfig.cmake и CMakeLists.txt
 ```sh
 $ nano CMakeLists.txt
 cmake_minimum_required(VERSION 3.4)
